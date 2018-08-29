@@ -1,3 +1,10 @@
+# Reign's first CS193 Lab
+ - 1 free(ish) credit hour
+ - Typing code is pretty cool
+ - Easy to follow instructions are nice
+ - Helpful teachers
+ - Preparation for the future
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
